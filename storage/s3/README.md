@@ -1,5 +1,5 @@
 <p align="center">
- <img alt="S3-Introduction" src="image/s3-introduction.png">
+ <img alt="S3-Introduction" src="images/s3-introduction.png">
 </p>
 
 ## Storage Classes
